@@ -2,8 +2,8 @@
 These units and projects are intended to help me gain a wider understanding of cybersecurity concepts through hands-on practice.
 
 # Applicable Tools and Programming Language
-- **Azure Labs VM:** The environment I work in. 
-- **CLI:** A text-based interface used to interact with a computer with commands to obtain system information, execute programs, spoof, and more.
+- **Azure Labs VM:** The environment worked in. 
+- **CLI:** A text-based interface used to interact with a computer using commands to obtain system information, execute programs, spoof, and more.
 - **CyberChef:** A web application that assists with data manipulation ranging from logical operators to encryption and decryption with AES, Blowfish, Rail Fence, and more.
 - **Metasploit:** A tool used to perform penetration testing.
 - **John the Ripper:** An open-source software tool used for password cracking.
