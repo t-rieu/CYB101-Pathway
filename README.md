@@ -1,5 +1,5 @@
 # CodePath CYB101 Pathway
-These units and projects are intended to help me gain a wider understanding of cybersecurity concepts through hands-on practice.
+These units and projects are intended to help me gain a wider understanding of cybersecurity concepts through hands-on practice. But, it will also require me to independently research these topics further.
 
 # Applicable Tools and Programming Language
 - **Azure Labs VM:** The environment worked in. 
