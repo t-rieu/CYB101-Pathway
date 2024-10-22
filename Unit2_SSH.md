@@ -55,4 +55,9 @@ Command: ssh-keygen -t ___ -b ___ -c “___”
 1. -t ___ specifies the type of key (the desired encryption algorithm).
 2. -b ___ specifies the number of bits.
 3. -c “___” is essentially a label/name for the key.
-'''
+```
+
+- **Passphrase -** a sequence of unrelated words.
+  - Similar to a password, it can be created and applied to the private SSH key for an extra layer of security.
+- **Key fingerprint -** a unique identifier derived from a key.
+  - It is a way to verify the key’s authenticity. 
