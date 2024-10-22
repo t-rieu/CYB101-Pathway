@@ -27,6 +27,7 @@
 
 ## Lab
 - Folders are directories. Files are not directories.
+
 Some CLI commands:
 ```
 1. ls | Lists all the files and directories in the current directory.
@@ -49,3 +50,9 @@ Some CLI commands:
   - It is used for managing networks, operating systems, and configurations.
 - **SSH key -** authenticates the identity of a user or process that wants to access a remote system using SSH.
  
+```
+Command: ssh-keygen -t ___ -b ___ -c “___”
+1. -t ___ specifies the type of key (the desired encryption algorithm).
+2. -b ___ specifies the number of bits.
+3. -c “___” is essentially a label/name for the key.
+'''
