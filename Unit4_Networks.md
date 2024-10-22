@@ -59,6 +59,35 @@
   - **Network behavior analysis**
     - Detects unusual traffic flows and spot zero-day vulnerabilities.
    
+**Distributed Denial of Service (DDoS) -** flooding a server with false traffic to disrupt services.
+  - **Identifying a DDoS attack:**
+    - A high volume of traffic from one IP address or IP range.
+    - A flood of traffic from users with a similar profile. Eg. device type
+    - Unexpected surge in requests to a single endpoint.
+    - Spikes of traffic at odd hours.
+  - **Mitigation techniques**
+    - **Blackhole routing -** funnels traffic into a null route, but this makes the network inaccessible for everyone.
+    - **Rate limiting -** limits the number of requests a server accepts in a given time span.
+      - Struggles to handle a multi-vector DDoS.
+    - **Traffic scrubbing -** traffic is redirected to a data center and cleaned before forwarding to the original destination.
+
+## Lab
+- The lab demonstrates how DNS IP addresses can be modified.
+- The hosts file acts as a local DNS.
+- Running ‘sudo nano hosts’ allows the hosts file to be edited.
+  - In the lab, I had to swap the IP addresses between www.neverssl.com and eu.httpbin.org.
+    - The IP addresses were first identified using the ‘dig’ command.
+   
+## Project
+- Nmap is a networking tool. It was used to scan for open ports and vulnerabilities in the Metasploitable VM.
+  - nmap -p0-65535 172.17.0.2
+    - Scans ports 0-65535 and lists those that are opened.
+  - nmap 172.17.0.2 --script vuln -p 21
+    - A VSFTPD backdoor vulnerability was found.
+- Using the Metasploit library, an exploit for the vulnerability was found and executed. From this, the Metasploitable VM was backdoored.
+
+
+   
   
 
 
