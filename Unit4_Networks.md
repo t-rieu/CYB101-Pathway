@@ -41,4 +41,24 @@
   - **BGP hijacking -** an attacker maliciously redirects internet traffic so packets do not arrive at their intended destination; instead, they arrive at an incorrect network.
     - BGP filter systems can mitigate this.
     - It can be used to perform MitM attacks.
- 
+   
+**Network intrusion -** unauthorized access of a computer or address within an assigned domain.
+- **Network intrusion detection -** monitors a network for malicious activity.
+  - Includes antivirus software and tiered monitoring systems.
+  - **Signature detection:** detects possible threats by looking for specific patterns, such as byte sequences in network traffic, or known malicious instruction sequences.
+  - **Anomaly-based detection:** detects and adapts to unknown attacks.
+- **Prevention strategies**
+  - **Network intrusion prevention system**
+    - Monitors all network traffic and proactively scans for threats.
+    - It can take action to block an attempted intrusion or remediate the incident.
+  - **Host intrusion prevention system**
+    - Installed at an endpoint and looks at the incoming and outgoing traffic from that only device.
+      - It is the last line of defense.
+  - **Wireless intrusion prevention system**
+    - Scans the Wi-Fi network for unauthorized access.
+  - **Network behavior analysis**
+    - Detects unusual traffic flows and spot zero-day vulnerabilities.
+   
+  
+
+
