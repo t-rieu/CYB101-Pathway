@@ -38,5 +38,23 @@
 - **Salting -** a random string added to a password before it’s hashed.
   - Helps enhance security.
   - The salt should be stored with the hash.
+
+ ## Lab ##
+ 1. Terng wbo qrpbqvat lbhe svefg pvcure!
+    - Great job decoding your first cipher! **[ROT13]**
+ 2. !#CTOAHDPE#! Acx'vt dhppu dqpzbui! Yhie im br!
+    - CODEPATH **[Rail fence]**
+    - You're doing amazing! Keep it up! **[Vingenère]**
+ 3. Ijhtinsl rjxxfljx nx kzs, gzy bmfy jqxj hfs bj it?!
+    - Decoding messages is fun, but what else can we do?! **[ROT13 but shift of 22]**
+ 4. Magic number: 'ab 20 10 5d' and File type: .png
+    - The .png magic number is ‘89 50 4e 47’, so I had to change the magic number to the correct one, convert it from hex, and then render the image.
+ 5. The .png shows a black rectangle when rendered.
+    - I adjusted the lightness of the photo to reveal the hidden message ‘I’m impressed!’.
+ 6. Provided key: 8621ffdbc5698829397d97767ac13db3 and provided message: Qfw ech'uv rkoqb wox huh gruxrfk!
+    - I had to use Crack Station to crack the hash which resulted in ‘dragon’.
+    - Now you're ready for the project! **[Vingenère]**
+    
+
      
 
