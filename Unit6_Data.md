@@ -58,6 +58,34 @@
     - Establish honeypots that detect actions by threat actors.
    
 ## Lab
+![jpgHexValues](https://github.com/user-attachments/assets/9cf0aa6c-5eb0-4a9c-a2d0-49a7bc670bf7)
+- To find hidden files in images, extract the files through CyberChef. Download the largest embedded file and extract it.
+
+## Project
+```
+- Used nano command to create a .txt file named ‘hiddenmessage.txt’.
+- steghide embed -ef hiddenmessage.txt -cf cat.jpg was used to embed the message into the image.
+```
+
+<img width="701" alt="Screenshot 2024-10-26 at 5 37 27 PM" src="https://github.com/user-attachments/assets/e0f3bd25-74fb-4e32-9bd1-3ca3d5f763a9">
+
+```
+- steghide info mochi.jpg displays the metadata of the file.
+```
+
+<img width="705" alt="Screenshot 2024-10-26 at 5 38 04 PM" src="https://github.com/user-attachments/assets/f5f1e7f0-8f89-470e-a51d-ae86c0fbfe28">
+
+```
+- steghide extract -sf cat.jpg -xf hiddenmessage.txt extracts the hidden message from the image file.
+```
+
+<img width="702" alt="Screenshot 2024-10-26 at 5 46 51 PM" src="https://github.com/user-attachments/assets/43872652-d998-438f-9ab5-c8f45d4ce564">
+
+```
+cat hiddenmessage.txt shows the content of the extracted file.
+```
+
+
 
  
 
