@@ -32,12 +32,15 @@ Where are those hosts generally located? US, Richardson
 <img width="955" alt="Screenshot 2024-11-03 at 2 51 00 PM" src="https://github.com/user-attachments/assets/e332c707-6254-485e-85db-637ee6e44c4f">
 
 **IP Address: 45.56.69.44**
-<img width="955" alt="Screenshot 2024-11-03 at 2 52 55 PM" src="https://github.com/user-attachments/assets/3c37c1ab-f74e-4080-81f0-f3d1c240ac44">
+<img width="955" alt="Screenshot 2024-11-03 at 2 57 38 PM" src="https://github.com/user-attachments/assets/9801c43e-46c5-4231-8718-3da6a255ae44">
 
 **IP Address: 198.252.206.19**
 <img width="954" alt="Screenshot 2024-11-03 at 2 53 41 PM" src="https://github.com/user-attachments/assets/6aac2c54-7630-4bb9-88d8-cc8586a92367">
 
 **IP Address: 146.190.62.39**
+<img width="955" alt="Screenshot 2024-11-03 at 2 56 17 PM" src="https://github.com/user-attachments/assets/3cd933a1-3c1f-4824-8601-24f5bf20059e">
 
+**IP Address: 34.223.124.45**
+<img width="954" alt="Screenshot 2024-11-03 at 2 56 55 PM" src="https://github.com/user-attachments/assets/5aa7a77f-8896-4030-911d-212382b82005">
 
 
