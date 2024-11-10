@@ -85,9 +85,12 @@
   - nmap 172.17.0.2 --script vuln -p 21
     - A VSFTPD backdoor vulnerability was found.
 - Using the Metasploit library, an exploit for the vulnerability was found and executed. From this, the Metasploitable VM was backdoored.
-
-
-   
-  
-
-
+ <img width="846" alt="Screenshot 2024-11-10 at 4 48 57 PM" src="https://github.com/user-attachments/assets/6f242556-55e3-4e62-b973-14acf5bc2603">
+ <img width="846" alt="Screenshot 2024-11-10 at 4 49 16 PM" src="https://github.com/user-attachments/assets/6b58c03c-53ae-4eae-8cf8-74b77642283e">
+ 
+**Stretch challenge:** I was able to exploit the vulnerability in port 1099.
+<img width="829" alt="Screenshot 2024-11-10 at 4 50 40 PM" src="https://github.com/user-attachments/assets/e830bf15-7a14-4dc2-b4e2-358538586924">
+<img width="822" alt="Screenshot 2024-11-10 at 4 50 51 PM" src="https://github.com/user-attachments/assets/422f4e58-8d51-406b-9b95-a30da6cfd65c">
+<img width="773" alt="Screenshot 2024-11-10 at 4 51 02 PM" src="https://github.com/user-attachments/assets/eee26c30-b851-4ed5-9f82-0fd2ab1ef25b">
+<img width="778" alt="Screenshot 2024-11-10 at 4 51 12 PM" src="https://github.com/user-attachments/assets/b229203e-d2fd-4b03-9828-15b179bd22d1">
+<img width="364" alt="Screenshot 2024-11-10 at 4 51 19 PM" src="https://github.com/user-attachments/assets/5dc39a9e-9419-4e42-8830-59e7b319f9c7">
