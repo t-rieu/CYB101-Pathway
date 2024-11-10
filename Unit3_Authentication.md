@@ -34,6 +34,8 @@
 **2. Write:** a user can modify the content.
 
 **3. Execute:** a user can run a file.
+<img width="842" alt="Screenshot 2024-11-10 at 4 46 23 PM" src="https://github.com/user-attachments/assets/fdbbd8c6-bb2e-44f1-8543-2a1cfef83c62">
+
 
 **How passwords work:**
 
@@ -83,9 +85,4 @@
 ```
 
 ## Project
-
-
-
-
-
-
+<img width="842" alt="Screenshot 2024-11-10 at 4 47 04 PM" src="https://github.com/user-attachments/assets/f462e6a9-2a1b-4ff8-81e7-7f0fd418c57a">
