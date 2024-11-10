@@ -60,4 +60,8 @@ Command: ssh-keygen -t ___ -b ___ -c “___”
 - **Passphrase -** a sequence of unrelated words.
   - Similar to a password, it can be created and applied to the private SSH key for an extra layer of security.
 - **Key fingerprint -** a unique identifier derived from a key.
-  - It is a way to verify the key’s authenticity. 
+  - It is a way to verify the key’s authenticity.
+  <img width="1320" alt="Screenshot 2024-11-10 at 4 44 40 PM" src="https://github.com/user-attachments/assets/9eb0d355-6967-4849-a0d0-f108ebcd618a">
+  <img width="1314" alt="Screenshot 2024-11-10 at 4 44 53 PM" src="https://github.com/user-attachments/assets/f81d6cd8-0454-43f3-b083-94e830b094a8">
+
+
