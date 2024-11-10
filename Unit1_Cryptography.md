@@ -35,6 +35,8 @@
 - **[Magic number](https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5) -** the first bits of a file that uniquely identify the file type.
 - **Hashing -** a one-way mathematical function that transforms data into a value or key that cannot be reversed or decoded.
   - Common hashing algorithms: MD5, SHA1, SHA2
+  ![hashing](https://github.com/user-attachments/assets/02b901df-e0ad-4ed8-a91e-548e2ebf9d28)
+
 - **Salting -** a random string added to a password before it’s hashed.
   - Helps enhance security.
   - The salt should be stored with the hash.
